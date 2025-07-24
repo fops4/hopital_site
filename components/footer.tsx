@@ -26,10 +26,10 @@ export function Footer() {
                   <path d="M16 21v-3a2 2 0 0 1 2-2h3" />
                 </svg>
               </div>
-              <span className="font-bold text-lg">Saint-Michel</span>
+              <span className="font-bold text-lg">Sainte Thérèse</span>
             </Link>
             <p className="text-sm text-muted-foreground">
-              Centre Hospitalier Saint-Michel
+              Centre Hospitalier Sainte Thérèse
               <br />
               Des soins de qualité pour tous, à chaque instant
             </p>
@@ -139,14 +139,14 @@ export function Footer() {
               </li>
               <li className="flex items-start">
                 <Mail className="h-5 w-5 text-blue-600 mr-2 mt-0.5" />
-                <span className="text-sm text-muted-foreground">contact@saint-michel.fr</span>
+                <span className="text-sm text-muted-foreground">contact@Sainte-Thérèse.fr</span>
               </li>
             </ul>
           </div>
         </div>
         <div className="mt-8 pt-8 border-t text-center">
           <p className="text-sm text-muted-foreground">
-            © {new Date().getFullYear()} Centre Hospitalier Saint-Michel. Tous droits réservés.
+            © {new Date().getFullYear()} Centre Hospitalier Sainte Thérèse. Tous droits réservés.
           </p>
         </div>
       </div>

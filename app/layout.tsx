@@ -9,7 +9,7 @@ import { Footer } from "@/components/footer"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Centre Hospitalier Saint-Michel",
+  title: "Centre Hospitalier Sainte Thérèse",
   description: "Centre hospitalier offrant des soins médicaux de qualité pour tous",
     generator: 'v0.dev'
 }

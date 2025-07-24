@@ -78,7 +78,7 @@ export default function Contact() {
                       <div>
                         <h3 className="font-medium">Adresse</h3>
                         <p className="text-muted-foreground">
-                          Centre Hospitalier Saint-Michel
+                          Centre Hospitalier Sainte Thérèse
                           <br />
                           123 Avenue de la Santé
                           <br />
@@ -104,11 +104,11 @@ export default function Contact() {
                       <div>
                         <h3 className="font-medium">Email</h3>
                         <p className="text-muted-foreground">
-                          Informations générales: contact@saint-michel.fr
+                          Informations générales: contact@Sainte Thérèse.fr
                           <br />
-                          Rendez-vous: rdv@saint-michel.fr
+                          Rendez-vous: rdv@Sainte Thérèse.fr
                           <br />
-                          Recrutement: recrutement@saint-michel.fr
+                          Recrutement: recrutement@Sainte Thérèse.fr
                         </p>
                       </div>
                     </div>

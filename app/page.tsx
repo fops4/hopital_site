@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <main className="flex flex-col min-h-screen">
       <HeroSection
-        title="Centre Hospitalier Saint-Michel"
+        title="Centre Hospitalier Sainte Thérèse"
         subtitle="Des soins de qualité pour tous, à chaque instant"
         buttonText="Prendre rendez-vous"
         buttonLink="/rendez-vous"
@@ -23,7 +23,7 @@ export default function Home() {
             <div className="flex flex-col items-center justify-center space-y-4 text-center">
               <div className="space-y-2">
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">
-                  Bienvenue à Saint-Michel
+                  Bienvenue à Sainte Thérèse
                 </h2>
                 <p className="max-w-[900px] text-muted-foreground md:text-xl">
                   Notre hôpital s'engage à fournir des soins médicaux d'excellence dans un environnement accueillant et
@@ -101,7 +101,7 @@ export default function Home() {
             <div className="grid gap-6 lg:grid-cols-2 lg:gap-12 items-center">
               <div className="space-y-4">
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">
-                  Pourquoi choisir Saint-Michel?
+                  Pourquoi choisir Sainte Thérèse?
                 </h2>
                 <p className="text-muted-foreground md:text-xl">
                   Notre hôpital combine expertise médicale, technologies de pointe et approche humaine pour offrir des
@@ -203,7 +203,7 @@ export default function Home() {
                   <p className="text-muted-foreground">
                     Téléphone: 01 23 45 67 89
                     <br />
-                    Email: contact@saint-michel.fr
+                    Email: contact@Sainte Thérèse.fr
                   </p>
                   <Link href="/contact">
                     <Button variant="link" className="text-blue-600">

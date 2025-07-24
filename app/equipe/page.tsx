@@ -96,7 +96,7 @@ export default function Equipe() {
             <div className="flex flex-col items-center justify-center space-y-4 text-center mb-10">
               <h2 className="text-3xl font-bold tracking-tighter">Notre approche d'équipe</h2>
               <p className="max-w-[700px] text-muted-foreground md:text-xl">
-                Chez Saint-Michel, nous croyons en une approche collaborative des soins de santé.
+                Chez Sainte Thérèse, nous croyons en une approche collaborative des soins de santé.
               </p>
             </div>
             <div className="grid gap-6 lg:grid-cols-2 lg:gap-12 items-center">
@@ -139,7 +139,7 @@ export default function Equipe() {
             <h2 className="text-3xl font-bold tracking-tighter mb-6">Rejoignez notre équipe</h2>
             <p className="max-w-[700px] mx-auto mb-8">
               Nous sommes toujours à la recherche de professionnels de la santé talentueux et passionnés pour rejoindre
-              notre équipe. Si vous êtes intéressé par une carrière au Centre Hospitalier Saint-Michel, consultez nos
+              notre équipe. Si vous êtes intéressé par une carrière au Centre Hospitalier Sainte Thérèse, consultez nos
               offres d'emploi actuelles.
             </p>
             <a

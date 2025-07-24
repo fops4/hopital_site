@@ -8,7 +8,7 @@ export default function APropos() {
         <div className="container px-4 md:px-6">
           <div className="flex flex-col items-center justify-center space-y-4 text-center">
             <div className="space-y-2">
-              <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">À propos de Saint-Michel</h1>
+              <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">À propos de Sainte Thérèse</h1>
               <p className="max-w-[700px] text-muted-foreground md:text-xl">
                 Découvrez notre histoire, nos valeurs et notre engagement envers la santé.
               </p>
@@ -25,7 +25,7 @@ export default function APropos() {
                 <h2 className="text-3xl font-bold tracking-tighter">Notre histoire</h2>
                 <div className="space-y-4 text-muted-foreground">
                   <p>
-                    Fondé en 1975, le Centre Hospitalier Saint-Michel a commencé comme une petite clinique de quartier
+                    Fondé en 1975, le Centre Hospitalier Sainte Thérèse a commencé comme une petite clinique de quartier
                     avec seulement 20 lits. Au fil des années, grâce à l'engagement de nos équipes et au soutien de la
                     communauté, nous avons grandi pour devenir l'un des établissements de santé les plus respectés de la
                     région.
@@ -36,7 +36,7 @@ export default function APropos() {
                     à des études cliniques innovantes.
                   </p>
                   <p>
-                    Aujourd'hui, Saint-Michel est un hôpital moderne de 350 lits, offrant une gamme complète de services
+                    Aujourd'hui, Sainte Thérèse est un hôpital moderne de 350 lits, offrant une gamme complète de services
                     médicaux et chirurgicaux, et employant plus de 1000 professionnels de santé dévoués.
                   </p>
                 </div>
@@ -161,7 +161,7 @@ export default function APropos() {
             <div className="flex flex-col items-center justify-center space-y-4 text-center mb-10">
               <h2 className="text-3xl font-bold tracking-tighter">Nos spécialités médicales</h2>
               <p className="max-w-[700px] text-muted-foreground md:text-xl">
-                Saint-Michel offre une large gamme de spécialités médicales pour répondre à tous vos besoins de santé.
+                Sainte Thérèse offre une large gamme de spécialités médicales pour répondre à tous vos besoins de santé.
               </p>
             </div>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -207,7 +207,7 @@ export default function APropos() {
                 <h2 className="text-3xl font-bold tracking-tighter">Notre engagement envers la communauté</h2>
                 <div className="space-y-4">
                   <p>
-                    Au Centre Hospitalier Saint-Michel, nous croyons fermement à notre responsabilité envers la
+                    Au Centre Hospitalier Sainte Thérèse, nous croyons fermement à notre responsabilité envers la
                     communauté que nous servons. Notre engagement va au-delà des soins médicaux traditionnels.
                   </p>
                   <p>
