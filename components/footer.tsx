@@ -67,6 +67,11 @@ export function Footer() {
                 </Link>
               </li>
               <li>
+                <Link href="/equipe" className="text-sm text-muted-foreground hover:text-blue-600">
+                  Équipe médicale
+                </Link>
+              </li>
+              <li>
                 <Link href="/rendez-vous" className="text-sm text-muted-foreground hover:text-blue-600">
                   Prendre rendez-vous
                 </Link>

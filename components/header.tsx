@@ -16,6 +16,7 @@ export function Header() {
     { href: "/", label: "Accueil" },
     { href: "/a-propos", label: "À propos" },
     { href: "/services", label: "Nos services" },
+    { href: "/equipe", label: "Équipe médicale" },
     { href: "/rendez-vous", label: "Rendez-vous" },
     { href: "/contact", label: "Contact" },
   ]
